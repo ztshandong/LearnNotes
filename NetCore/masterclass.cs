@@ -7,6 +7,6 @@ namespace NetCore
 {
     public class masterclass
     {
-        string a+b;
+        string a_b;
     }
 }
